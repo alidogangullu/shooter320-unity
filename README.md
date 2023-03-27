@@ -26,8 +26,8 @@ score(endless mode) appear in 1920x1080 resolution.
 	-/Assets/Scenes
 	-/Assets/Scripts
 	
-	Other files are ready files of the asset. 
-	No scene or script was used among them. 
-	We just took the visuals from there.
+Other files are ready files of the asset. 
+No scene or script was used among them. 
+We just took the visuals from there.
 
 -Unity Engine Version: 2020.3.21f1
