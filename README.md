@@ -1,7 +1,5 @@
 # SHOOTER 320 - 3D Game Unity Project
 
-SHOOTER 320 README
-
 -Game Controls
 	-'WASD' or arrows for character movement. 
 	-'space' key to jump. 
